@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <style>
+             th,table{
+                text-align: center;
+                height: 40px;
+                
+            }
+            td{
+                text-align: right;
+                height: 40px;
+            }
+
+            th{
+                
+                height: 70px;
+
+            }
+            table{
+                border-collapse: collapse;
+                width: 50px;
+                margin: auto;
+            }
+           
+
+        </style>
+
+    </head>
+    <body>
+       
+        
+        <table border>
+            <caption><h3>EMI Calculation</h3></caption>
+            <tr>
+                <th style="background-color:rgb(180, 203, 206); color:white;">year</th><th style="background-color:rgb(38, 203, 76);color: white;">principal <br/>(A)</th><th style="background-color:rgba(51, 57, 161, 0.467); color:white;">intreset<br/>(B)</th><th style="background-color:rgb(180, 203, 206); color:white;">total payment <br/>(A+B)</th><th style="background-color:red; color: white;">balance</th><th style="background-color:rgb(180, 203, 206); color:white;">loan paid date</th>
+            </tr>
+            <tr>
+                <td>2023</td><td>&#8377;59,024</td><td>&#8377;80,320</td><td>&#8377;1,39,343</td><td>&#8377;9,40,976</td><td>5.90%</td>
+                
+            </tr>
+            <tr>
+                <td>2024</td><td>&#8377;59,024</td><td>&#8377;80,320</td><td>&#8377;1,39,343</td><td>&#8377;9,40,976</td><td>5.90%</td>
+            </tr>
+            <tr>
+                <td>2025</td><td>&#8377;70,771</td><td>&#8377;81,840</td><td>&#8377;1,52,010</td><td>&#8377;8,70,705</td><td>12.23%</td>
+            </tr>
+            <tr>
+                <td>2026</td><td>&#8377;76,745</td><td>&#8377;75,259</td><td>&#8377;1,52,011</td><td>&#8377;7,94,034</td><td>20.56%</td>
+            </tr>
+
+            <tr>
+                <td>2027</td><td>&#8377;83,953</td><td>&#8377;68,0056</td><td>&#8377;1,54,233</td><td>&#8377;7,10,456</td><td>29.99%</td>
+            </tr>
+            <tr>
+                <td>2028</td><td>&#8377;91,839</td><td>&#8377;60,182</td><td>&#8377;1,58,344</td><td>&#8377;6,18,230</td><td>38.23%</td>
+            </tr>
+
+            <tr>
+                <td>2029</td><td>&#8377;1,00,443</td><td>&#8377;51,344</td><td>&#8377;1,15,354</td><td>&#8377;5,17,123</td><td>48.99%</td>
+            </tr>
+        </table>
+    </body>
+</html>
