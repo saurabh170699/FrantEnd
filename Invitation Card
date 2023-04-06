@@ -1,0 +1,75 @@
+/*Invitation Card To Welcome to IMO2023*/
+
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+
+        <link rel="stylesheet" href="assignment3.css"/>
+        <style>
+            .center{
+                max-width: 500px;
+                margin: auto;
+            }
+            div{
+                margin: auto; border: 2px solid; width: 85%;
+                text-align: center;
+            }
+            h1{
+                text-align: center;
+            }
+            ul{
+                width: 40%; 
+                text-align: left;
+            }
+
+            
+        </style>
+
+    </head>
+
+
+    <body>
+        <h1 >Welcome to IMO2023</h1>
+        <br/>
+        <p1>The Mathematical Olympiad Foundation (IMO) is pleased to confirm
+            that the 64th International Mathematical Olympiad will be held in Chiba on July 2-13, 2023.</p1>
+        <div>
+
+        
+        
+        
+            <h3>Hosted by</h3>
+            <p1>The mathematical Olympiad Foundation of Japan</p1>
+            <h3>Co-hosted by</h3>
+            <p1>apan Science and Tecnology Agency (JST)</p1>
+            <h3>in assosiation with</h3>
+            <ul>
+                <li>Ministry of Education, Culture, Sports, Science, and Technology(MEXT) - Japan </li>
+                <li>Mathematical Society of Japan</li>
+                <li>Japan Society of Mathematical Education</li>
+                <li>Chiba Convention Bureau and International Center (CCB-IC)</li>
+            </ul>
+        </div>
+        <h1>Contact Information for IMO2023</h1>
+
+        <div>
+
+            
+            
+                <p1>For questions about IMO2023 in general, please contact:</p1><br/>
+                inquiry[at]imo2023.jp<br/>
+                For questions by particpating countries or regions, and confirmed individual participants including contestants, please contact:<br/>
+                info[at]imo2023.jp<br/>
+                For questions about sponsorship, event management and media support, please contact:<br/>
+                event[at]imo2023.jp<br/>
+                (change [at] to @)
+            </tr>
+            </div>
+    
+    </body>
+
+</html>
+
+
+
